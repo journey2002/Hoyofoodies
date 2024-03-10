@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "24817888312",
+    "firebase_url": "https://hoyofoodies3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hoyofoodies3",
+    "storage_bucket": "hoyofoodies3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24817888312:android:8f432b1cc9aeb287eacacd",
+        "android_client_info": {
+          "package_name": "com.example.hoyofoodies3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVNZw0yPxoKkhRklSMEovNm7s01d88ZKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
